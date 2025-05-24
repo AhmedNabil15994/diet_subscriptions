@@ -1,0 +1,21 @@
+{
+    "Core": true,
+    "Apps": true,
+    "Category": true,
+    "Areas": true,
+    "Catalog": true,
+    "Coupon": true,
+    "Authentication": true,
+    "Authorization": true,
+    "DeviceToken": true,
+    "Page": true,
+    "Setting": true,
+    "Transaction": true,
+    "User": true,
+    "Log": true,
+    "Area": true,
+    "Package": true,
+    "Sliders": true,
+    "Header": true,
+    "Contact": true
+}

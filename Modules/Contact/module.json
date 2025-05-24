@@ -1,0 +1,15 @@
+{
+    "name": "Contact",
+    "alias": "contact",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Contact\\Providers\\ContactServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

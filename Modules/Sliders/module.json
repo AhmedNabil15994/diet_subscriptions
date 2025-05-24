@@ -1,0 +1,15 @@
+{
+    "name": "Sliders",
+    "alias": "sliders",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Sliders\\Providers\\SliderServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}
